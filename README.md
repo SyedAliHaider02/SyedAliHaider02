@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **syed.ali.haider02@gmail.com**
 
+- 🥏 Check out my Kaggle projects **https://www.kaggle.com/syedali110**
+
 - 📖 Read my article **https://www.geeksforgeeks.org/placement-prediction-app-using-flask/**
 
 <h3 align="left">Connect with me:</h3>
